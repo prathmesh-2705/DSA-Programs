@@ -1,5 +1,4 @@
 # DSA-Programs
-DSA-Programs
 
 This repository contains my implementations of Data Structures and Algorithms (DSA) in C++. The solutions are primarily based on problems I have solved on LeetCode, making this a personal collection of my approaches and solutions.
 
